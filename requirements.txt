@@ -1,0 +1,6 @@
+Task Overview:
+Assume your client is the Mayor of London. They want to know more about the Bike Points (“Boris Bikes”) around London as they are considering investing in more points.
+
+The challenge is to design and implement an ETL (Extract, Transform, Load) process for the data provided by the Bike Point API from TfL:
+
+https://api.tfl.gov.uk/BikePoint/
