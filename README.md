@@ -193,5 +193,5 @@ At the time of analysis, the evidence suggests that improving bike distribution 
 ## Author
 
 Anna Grigoriadi
-Data Engineer Apprentice | Microsoft Fabric Data Engineer Associate
+Data Engineer | Microsoft Fabric Data Engineer Associate
 Databricks • Azure • SQL • PySpark • Data Engineering
