@@ -179,6 +179,16 @@ At the time of analysis, the evidence suggests that improving bike distribution 
 - Borough-level demand analysis
 - CI/CD deployment pipeline
 
+## Portfolio Value
+
+- ✅ Databricks fundamentals
+- ✅ PySpark transformations
+- ✅ Spark SQL
+- ✅ Delta Lake
+- ✅ Medallion Architecture
+- ✅ Semi-structured data processing
+- ✅ Dashboard design
+- ✅ Business-focused data engineering
 
 ## Author
 
