@@ -1,9 +1,9 @@
 ## Findings
 
-274 stations currently empty
-154 stations currently full
-Average occupancy rate 38%
-Several stations show high capacity stress
+- 274 stations currently empty
+- 154 stations currently full
+- Average occupancy rate 38%
+- Several stations show high capacity stress
 
 ## Recommendations
 
